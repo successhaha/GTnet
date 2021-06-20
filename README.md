@@ -2,9 +2,9 @@
 Graph Embedding and Optimal Transport for Few-Shot Classification of Metal Surface Defect
 
 Requirements
-To install requirements:
 
-pip install -r requirements.txt
+To install requirements:
+           pip install -r requirements.txt
 
 Dataset:
 
