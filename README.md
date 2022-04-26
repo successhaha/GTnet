@@ -15,9 +15,9 @@ Code：
 
 link：https://pan.baidu.com/s/1H9ohxDf2qwxKkHgj9UQa2A password：aoi3 
 
-Data set slplt:
+Datasets split:
            
-           python make_selfdataset.py
+           python make_self_datasets.py
            
 
 
