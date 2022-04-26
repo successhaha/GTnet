@@ -36,12 +36,12 @@ Hyperparameter setting
 
 common setting:
 
-1-shot: k=10 kappa=9 beta=0.5 5-shot: k=4 kappa=1 beta=0.75
+           1-shot: k=10 kappa=9 beta=0.5 5-shot: k=4 kappa=1 beta=0.75
 
 cross-domain setting1 :
 
-1-shot: k=10 kappa=1 beta=0.7 5-shot: k=4 kappa=1 beta=0.6
+           1-shot: k=10 kappa=1 beta=0.7 5-shot: k=4 kappa=1 beta=0.6
 
 cross-domain setting2 :
 
-1-shot: k=10 kappa=1 beta=0.7 5-shot: k=4 kappa=1 beta=0.5
+           1-shot: k=10 kappa=1 beta=0.7 5-shot: k=4 kappa=1 beta=0.5
