@@ -26,6 +26,7 @@ Evaluation
 
 To evaluate my model on miniImageNet/CUB/cifar/cross, run:
 For miniImageNet/CUB
+
            python save_plk.py
 
            python test.py
