@@ -26,10 +26,10 @@ To train the feature extractors in the paper, run this command:
 Evaluation
 
 To evaluate my model on miniImageNet/CUB/cifar/cross, run:
+For miniImageNet/CUB
 
            python test.py
 
-For miniImageNet/CUB
 
 
 Hyperparameter setting
