@@ -17,6 +17,21 @@ link：https://pan.baidu.com/s/1H9ohxDf2qwxKkHgj9UQa2A password：aoi3
 
 Contact the author e-mail：1900412@neu.edu.cn or 2878570391@qq.com
 
+Training
+
+To train the feature extractors in the paper, run this command:
+
+python train.py --dataset [miniImagenet/CUB] --method [S2M2_R/rotation] --model [WideResNet28_10/ResNet18] --train_aug
+
+Evaluation
+
+To evaluate my model on miniImageNet/CUB/cifar/cross, run:
+
+python test_standard.py
+
+For miniImageNet/CUB
+
+
 Hyperparameter setting
 
 common setting:
