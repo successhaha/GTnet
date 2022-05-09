@@ -1,5 +1,6 @@
 # GTnet
 Graph Embedding and Optimal Transport for Few-Shot Classification of Metal Surface Defect
+<https://ieeexplore.ieee.org/document/9761830?source=authoralert>
 
 Requirements
 
